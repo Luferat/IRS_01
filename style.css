@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+    outline: none;
+}
+
+html, body {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+a {
+    color: steelblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: orangered;
+    text-decoration: underline;
+}
+
+body {
+    background-attachment: fixed;
+    background-color: steelblue;
+    background-image: url('/img/bg01.fw.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#wrap>header {
+    background-color: rgba(240, 250, 255, 0.85);
+    padding: .5rem;
+}
+
+#wrap>header img {
+    display: block;
+    width: 6rem;
+    margin: auto;
+}
+
+#wrap>nav {
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(1, 36, 66);
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+}
+
+#wrap>nav a {
+    color: rgb(204, 232, 255);
+    padding: .8rem;
+    text-align: center;
+}
+
+#wrap>nav a:hover {
+    background-color: rgb(204, 232, 255);
+    color: rgb(1, 36, 66);
+    text-decoration: none;
+}
+
+#wrap>nav a:first-child {
+    margin-right: auto;
+}
+
+#wrap>nav span {
+    display: block;
+    padding-top: .35rem;
+}
+
+#wrap>nav i {
+    font-size: 2rem;
+}
