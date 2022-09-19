@@ -14,7 +14,7 @@ Mobile first
 ╠═══════════════════════╣
 ║                       ║
 ║                       ║
-║    MENU PRINCIPAL     ║  → Conteúdo <main>
+║        CONTEÚDO       ║  → Conteúdo <main>
 ║                       ║
 ║                       ║
 ╠═══════════════════════╣
@@ -31,7 +31,7 @@ Telas maiores
 ╠═══════════════════════╦══════════╣
 ║                       ║          ║
 ║                       ║  Barra   ║
-║    MENU PRINCIPAL     ║  lateral ║  → Conteúdo <main>
+║       CONTEÚDO        ║  lateral ║  → Conteúdo <main>
 ║                       ║          ║
 ║                       ║          ║
 ╠═══════════════════════╩══════════╣
