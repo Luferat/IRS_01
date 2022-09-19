@@ -15,8 +15,10 @@ Mobile first
 ║                       ║
 ║                       ║
 ║        CONTEÚDO       ║  → Conteúdo <main>
+║                       ║             <article>
 ║                       ║
-║                       ║
+╠═══════════════════════╣
+║    BARRA INFERIOR     ║  → Conteúdo <aside>
 ╠═══════════════════════╣
 ║       RODAPÉ          ║  → Rodapé <footer>
 ╚═══════════════════════╝
@@ -30,10 +32,10 @@ Telas maiores
 ║    início   contatos    sobre    ║  → Menu principal <nav>
 ╠═══════════════════════╦══════════╣
 ║                       ║          ║
-║                       ║  Barra   ║
-║       CONTEÚDO        ║  lateral ║  → Conteúdo <main>
-║                       ║          ║
-║                       ║          ║
+║                       ║  BARRA   ║
+║       CONTEÚDO        ║ LATERAL  ║  → Conteúdo <main>
+║                       ║          ║             <article>
+║                       ║          ║             <aside>
 ╠═══════════════════════╩══════════╣
 ║              RODAPÉ              ║  → Rodapé <footer>
 ╚══════════════════════════════════╝
